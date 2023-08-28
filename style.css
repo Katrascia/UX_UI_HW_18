@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'Junction';
+    src: url(/CSS/junction-master/webfonts/junction-regular.ttf);
+}
+body {
+    font-family: Junction;
+}
+
+.navigation {
+    width: auto;
+    height: 61.2px;
+    background-color: #2DABEF;
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+    margin-left: 20px;
+}
+.logo {
+    width: 8%;
+}
+
+.logoImg {
+    width: 130px;
+    height: 61px;
+}
+
+.nav {
+    width: 50%;
+    margin-left: auto;
+}
+
+.heroImg {
+    height: 600px;
+    padding: none;
+}   
+
+.content {
+    width: 700px;
+    margin: 0 auto;
+    padding: none;
+}
+
+.footer {
+    background-color: #2DABEF;
+    width: auto;
+    height: 100px;
+    padding: none;
+}
+
+.fullname { 
+    font-size: 128px;
+    font-family: 'Carattere', cursive;
+    margin-block-end: 0;
+    margin-block-start: 80px;
+    text-align: center;
+}
+
+.ul {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.resume {
+    height: 30px;
+    color: white;
+    text-align: center;
+    background-color: #2DABEF;
+    border: none;
+    border-radius: 10px;
+    font-family: Junction;
+    margin-left: 300px;
+}
+
+.bottomlogo {
+    width: 200px;
+    height: 100px;
+}
+
+.aboutme {
+    text-align: center;
+}
+
+.footercontact {
+    color: white;
+    width: 400px;
+    display: inline-block;
+    text-align: right;
+    list-style: none;
+    vertical-align: middle;
+    margin-left: 870px;
+}
+
+.icons {
+    display: inline;
+    vertical-align:middle;
+    padding-left: 800px;
+}
