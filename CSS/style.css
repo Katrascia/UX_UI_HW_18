@@ -33,7 +33,7 @@ body {
 }
 
 .heroImg {
-    height: 600px;
+    height: 400px;
     padding: none;
 }   
 
@@ -98,3 +98,86 @@ body {
     vertical-align:middle;
     padding-left: 800px;
 }
+
+.myskills {
+    text-align: center;
+    
+}
+
+.skillslist {
+    display: inline-block;
+    list-style: none;
+    line-height: 25px;
+}
+
+.list1 {
+    text-align:left;
+    width: 40%;
+}
+
+.list2 {
+    text-align: right;
+    width: 40%;
+}
+
+.workgrid {
+    display: inline-block;
+    width: 450px
+}
+
+.text {
+    vertical-align: top;
+    padding-top: 100px;
+    margin-left: 250px;
+    text-align: center;
+    
+}
+
+.mywork {
+    text-align: center;
+}
+
+.njhealth {
+    width: 450px; 
+    margin-left: 150px;
+    padding-bottom: 50px;
+}
+
+.afa {
+    width: 450px; 
+    margin-left: 150px;
+    padding-bottom: 50px;
+}
+
+.travelapp {
+    width: 450px; 
+    margin-left: 150px;
+    padding-bottom: 50px;
+
+}
+
+.viewproject {
+    height: 30px;
+    color: white;
+    text-align: center;
+    background-color: #2DABEF;
+    border: none;
+    border-radius: 10px;
+    font-family: Junction;
+
+}
+
+.viewall {
+    background-color: #2DABEF;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    font-family: Junction;
+    height: 60px;
+    width: 70%;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-left: 200px;
+}
+
+@media only screen and (max-width: 600)
