@@ -1,7 +1,3 @@
-@font-face {
-    font-family: 'Junction';
-    src: url(/CSS/junction-master/webfonts/junction-regular.ttf);
-}
 body {
     font-family: Junction;
 }
