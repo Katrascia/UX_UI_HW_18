@@ -137,19 +137,21 @@ body {
     width: 450px; 
     margin-left: 150px;
     padding-bottom: 50px;
+    max-width: 100%;
 }
 
 .afa {
     width: 450px; 
     margin-left: 150px;
     padding-bottom: 50px;
+    max-width: 100%;
 }
 
 .travelapp {
     width: 450px; 
     margin-left: 150px;
     padding-bottom: 50px;
-
+    max-width: 100%;
 }
 
 .viewproject {
@@ -176,4 +178,35 @@ body {
     margin-left: 200px;
 }
 
-@media only screen and (max-width: 600)
+.passion {
+    height: 150px;
+    width: 150px;
+    margin-right: 70px;
+    background-color: #2DABEF;
+    border: none;
+    color: white;
+    font-size: medium;
+}
+
+.passionbuttons {
+text-align: center;
+font-family: Junction;
+margin-bottom: 50px;
+margin-left: 60px;
+}
+
+.mypassions {
+    text-align: center;
+}
+
+.mycontact {
+    text-align: center;
+
+}
+
+.contacticons {
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 768px)
